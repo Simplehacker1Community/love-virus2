@@ -10,5 +10,7 @@ wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simple
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou2.txt
 clear
 python logo.py
-espeak -v Annie -p8 -s150 -k28 -f loveyou2.txt
-espeak -v Annie -p8 -s150 -k28 -f loveyou.txt
+#espeak -v Annie -p8 -s150 -k28 -f loveyou2.txt
+#espeak -v Annie -p8 -s150 -k28 -f loveyou.txt
+espeak -v Annie  -f loveyou2.txt
+espeak -v Annie  -f loveyou.txt
