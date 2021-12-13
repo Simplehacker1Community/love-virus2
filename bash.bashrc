@@ -12,7 +12,7 @@ export HISTCONTROL=ignoreboth
 
 # Default command line prompt.
 PROMPT_DIRTRIM=2
-PS1='\[\e[0;32m\]\w\[\e[0m\]\[\e[0;97m\]SimpleHacker1 =>\[\e[0m\] '
+PS1='\[\e[0;32m\]\w\[\e[0m\]\[\e[0;97m\]MissKathakali =>\[\e[0m\] '
 
 # Handles nonexistent commands.
 # If user has entered command which invokes non-available
@@ -22,3 +22,4 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
         }
 fi
+love
