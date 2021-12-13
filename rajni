@@ -1,0 +1,18 @@
+cat .version.txt
+rm .ping
+wget -q  https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/.ping  &> /dev/null 
+if grep -q truelove .ping
+then
+ echo updateing
+ rm  love.sh
+ rm .ping 
+ rm .version.txt
+ rm setup.sh
+ #wget -q https://raw.githubusercontent.com/Simplehacker1Community/lovevirus/main/.version.txt &> /div/null
+ wget -q  https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/setup.sh &> /div/null 
+ clear
+ bash setup.sh
+ exit
+fi
+echo "TrueLove Found "
+bash love.sh
