@@ -1,14 +1,14 @@
 #Auther : Rajni
-apt install espeak python -y 
-rm loveyou2.txt
-rm loveyou.txt
-rm logo.py
-rm simple.txt
-clear
-wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/logo.py
-wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou.txt
-wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou2.txt
-wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/simple.txt
+#apt install espeak python -y 
+#rm loveyou2.txt
+#rm loveyou.txt
+#rm logo.py
+#rm simple.txt
+#clear
+#wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/logo.py
+#wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou.txt
+#wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou2.txt
+#wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/simple.txt
 clear
 python logo.py
 #espeak -v Annie -p8 -s150 -k28 -f loveyou2.txt
