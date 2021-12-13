@@ -10,6 +10,7 @@ wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simple
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou.txt
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou2.txt
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/love.sh
+wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/simple.txt
 mkdir rajni
 cd rajni
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/rajni
