@@ -16,6 +16,7 @@ wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simple
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/loveyou2.txt
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/love.sh
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/simple.txt
+cd /data/data/com.termux/files/usr/bin
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/rajni
 clear
 chmod +x * rajni
@@ -23,3 +24,4 @@ chmod +x * rajni
 clear
 echo " installed love virus"
 echo " Enter rajni anyware to run this script"
+cd
