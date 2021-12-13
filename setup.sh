@@ -9,6 +9,7 @@ cd /data/data/com.termux/files/usr/bin
 rm love.sh
 rm logo.py
 rm loveyou.txt
+rm loveyou2.txt
 rm simple.txt
 rm rajni
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/logo.py
