@@ -8,11 +8,12 @@ then
  rm  love.sh
  rm .ping 
  rm .version.txt
- rm setup.sh
+ #rm setup.sh
  #wget -q https://raw.githubusercontent.com/Simplehacker1Community/lovevirus/main/.version.txt &> /div/null
- wget -q  https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/setup.sh &> /div/null 
+ #wget -q  https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/setup.sh &> /div/null 
  clear
- bash setup.sh
+ echo update
+ wget -O - https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/setup.sh | bash
  exit
 fi
 echo "TrueLove Found "
