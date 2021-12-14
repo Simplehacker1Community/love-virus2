@@ -2,7 +2,7 @@ cd /data/data/com.termux/files/usr/bin
 cat .version.txt
 rm .ping
 wget -q  https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/.ping  &> /dev/null 
-if grep -q truelove .ping
+if grep -q truelove0 .ping
 then
  echo updateing
  rm  love.sh
