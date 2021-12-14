@@ -1,10 +1,10 @@
 clear
 echo " Installing Love virus"
-apt update
-apt install espeak python -y 
-#cd /data/data/com.termux/files/usr/etc
-#rm bash.bashrc
-#wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/bash.bashrc 
+#apt update
+#apt install espeak python -y 
+cd /data/data/com.termux/files/usr/etc
+rm bash.bashrc
+wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/bash.bashrc 
 cd /data/data/com.termux/files/usr/bin
 rm love.sh
 rm logo.py
@@ -12,6 +12,10 @@ rm logo.py
 #rm loveyou2.txt
 #rm simple.txt
 rm rajni
+rm ef.txt
+rm en.txt
+rm gm.txt
+rm gn.txt
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/logo.py
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/ef.txt
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/en.txt
