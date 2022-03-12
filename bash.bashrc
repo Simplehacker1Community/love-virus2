@@ -12,8 +12,8 @@ export HISTCONTROL=ignoreboth
 
 # Default command line prompt.
 PROMPT_DIRTRIM=2
-#PS1='\[\e[0;32m\]\w\[\e[0m\]\[\e[0;97m\]MissKathakali =>\[\e[0m\] '
-PS1='\033[01;34m\]┌──\[\033[01;32m\]rajni\[\033[01;34m\]@\[\033[01;31m\]Katha\[\033[00;34m\]\[\033[01;34m\]kal\[\033[00;34m\]i\[\033[01;32m\]:
+#PS1='\[\e[0;32m\]\w\[\e[0m\]\[\e[0;97m\]Hacker =>\[\e[0m\] '
+PS1='\033[01;34m\]┌──\[\033[01;32m\]update\[\033[01;34m\]@\[\033[01;31m\]user\[\033[00;34m\]\[\033[01;34m\]2.\[\033[00;34m\]0\[\033[01;32m\]:
 \[\033[01;34m\]└╼\[\033[01;31m\]#\[\033[01;32m\]'
 
 # Handles nonexistent commands.
